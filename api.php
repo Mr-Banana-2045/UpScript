@@ -1,5 +1,5 @@
 <?php
-$token = "++++;
+$token = "++++";
 $url = "https://api.telegram.org/bot$token/getUpdates";
 
 $editing_file = null;
